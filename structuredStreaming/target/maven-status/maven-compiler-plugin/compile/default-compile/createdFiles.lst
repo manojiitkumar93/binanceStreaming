@@ -1,0 +1,8 @@
+spark/structuredStreaming/binance/merge/VWAPResult.class
+spark/structuredStreaming/binance/BinanceTradeMapper.class
+spark/structuredStreaming/binance/BinanceTrade.class
+spark/structuredStreaming/App.class
+spark/structuredStreaming/binance/Trade.class
+spark/structuredStreaming/App$1.class
+spark/structuredStreaming/binance/merge/MergeVWAP.class
+spark/structuredStreaming/binance/merge/MergeVWAPResult.class
