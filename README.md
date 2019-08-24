@@ -21,4 +21,10 @@ binanceTrade--> kafka topic
 
 **NOTE** : Resultant stats will be written to `/tmp/binance` folder
 
+### References
+1. For using [Akka streams](https://doc.akka.io/docs/akka-http/current/client-side/websocket-support.html?language=scala) and [java example for Akka streams](https://github.com/akka/akka-http/blob/v10.1.9/docs/src/test/java/docs/http/javadsl/WebSocketClientExampleTest.java#L40-L87)
+2. Custome [merge functions](https://github.com/apache/spark/blob/master/examples/src/main/java/org/apache/spark/examples/sql/JavaUserDefinedTypedAggregation.java)
+3. Connecting to [Binance Trades](https://github.com/imranshaikmuma/Websocket-Akka-Kafka-Spark)
+4.Spark Structured streaming [link1](http://vishnuviswanath.com/spark_structured_streaming.html) and [link2](http://blog.madhukaraphatak.com/categories/introduction-structured-streaming/)
+
 
